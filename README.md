@@ -22,8 +22,6 @@ Check out my repositories below to see the projects I'm working on!
 - [Personal Portfolio Website](https://github.com/justvarma/Portfolio)
 - [Inventory Managment](https://github.com/justvarma/Inventory_managment)
 
----
-
 ## 📫 Contact
 
 Feel free to reach out to me via email at [adityavarma046@gmail.com](mailto:adityavarma046@gmail.com), explore my work on [LinkedIn](https://www.linkedin.com/in/aditya-varma-52a6b7271/), or check out my [Portfolio Website](https://aditya-varma-portfolio.netlify.app/).
