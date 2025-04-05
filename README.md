@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Aditya Varma**! –
+# 👋 Hi, I’m **Aditya Varma**!
 
 📍 A second-year Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
