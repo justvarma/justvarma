@@ -1,34 +1,64 @@
-👋 Hi, I’m **Aditya Varma**!
+# 👋 Hi, I’m **Aditya Varma**!
 
 ---
 
 📍 A second-year Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-💡 I’m passionate about exploring technology through **algorithms, data structures, embedded systems**, and **machine learning**. With a strong foundation in **C**, **Python**, **Data Science**, **DBMS**, **Operating Systems**, and **Machine Learning** I love building real-world solutions that blend hardware and software.
+💡 I’m passionate about exploring technology through **algorithms**, **data structures**, **embedded systems**, and **machine learning**. With a strong foundation in **C**, **Python**, **Data Science**, **DBMS**, **Operating Systems**, and **Machine Learning**, I love building real-world solutions that blend hardware and software.
 
 🔗 My interests lie in **IoT**, **ML**, and developing intelligent systems that simplify everyday life.
 
 🤝 I’m currently looking to **collaborate on exciting projects**, contribute to open-source, and learn through hands-on experience with like-minded developers.
 
+---
 
-## 🔧 Technologies I work with
+## 🔧 Technologies I Work With
 
-- **Languages**: Python, C, C++, JavaScript, SQL, HTML, CSS
-- **Technologies/Frameworks**:  Tkinter, GitHUb, MySQL, Google Maps API, Git
-- **Libraries**: pandas, NumPy, Matplotlib, OS, scikit-learn, TensorFlow
-- **Tools**: Git, Spyder, Jupyter Notebook, CodeBlocks, VS Code
+### 💻 Languages
+- Python  
+- C / C++  
+- JavaScript  
+- SQL  
+- HTML & CSS
 
-## 🚀 Projects
-Check out my repositories below to see the projects I'm working on!
+### 🧰 Frameworks & Tools
+- Tkinter  
+- GitHub  
+- MySQL  
+- Google Maps API  
+- Git
 
-- [Driver Fatigue Detection using EEG Signals](https://github.com/justvarma/Fatigue_Detection)  
-- [Personal Portfolio Website](https://github.com/justvarma/Portfolio)
-- [Inventory Managment](https://github.com/justvarma/Inventory_managment)
+### 📚 Libraries
+- pandas  
+- NumPy  
+- Matplotlib  
+- scikit-learn  
+- TensorFlow
 
-## 📫 Contact
-
-Feel free to reach out to me via email at [adityavarma046@gmail.com](mailto:adityavarma046@gmail.com), explore my work on [LinkedIn](https://www.linkedin.com/in/aditya-varma-52a6b7271/), or check out my [Portfolio Website](https://aditya-varma-portfolio.netlify.app/).
+### 🛠️ IDEs & Platforms
+- Spyder  
+- Jupyter Notebook  
+- Code::Blocks  
+- VS Code
 
 ---
 
-✨ Let’s connect and build something impactful together! 🚀
+## 🚀 Projects
+
+Check out some of my featured repositories:
+
+- 🔬 [Driver Fatigue Detection using EEG Signals](https://github.com/justvarma/Fatigue_Detection)  
+- 🌐 [Personal Portfolio Website](https://github.com/justvarma/Portfolio)  
+- 📦 [Inventory Management System](https://github.com/justvarma/Inventory_managment)
+
+---
+
+## 📫 Contact
+
+📧 Email: [adityavarma046@gmail.com](mailto:adityavarma046@gmail.com)  
+💼 LinkedIn: [aditya-varma](https://www.linkedin.com/in/aditya-varma-52a6b7271/)  
+🌍 Portfolio: [aditya-varma-portfolio.netlify.app](https://aditya-varma-portfolio.netlify.app/)
+
+---
+
+✨ *Let’s connect and build something impactful together!* 🚀
