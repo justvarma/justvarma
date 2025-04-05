@@ -1,35 +1,30 @@
-![alt text](./images/top.svg)
+# 
+👋 Hi, I’m **Aditya Varma** – a second-year Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+💡 I’m passionate about exploring technology through **algorithms, data structures, embedded systems**, and **machine learning**. With a strong foundation in **C**, **Python**, **Data Science**, **DBMS**, **Operating Systems**, and **Machine Learning** I love building real-world solutions that blend hardware and software.
 
-<!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 My interests lie in **IoT**, **ML**, and developing intelligent systems that simplify everyday life.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
+🤝 I’m currently looking to **collaborate on exciting projects**, contribute to open-source, and learn through hands-on experience with like-minded developers.
 
 
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
+## 🔧 Technologies I work with
 
-![alt text](./images/bottom.svg)
+- **Languages**: Python, C, C++, JavaScript, SQL, HTML, CSS
+- **Technologies/Frameworks**:  Tkinter, GitHUb, MySQL, Google Maps API, Git
+- **Libraries**: pandas, NumPy, Matplotlib, OS, scikit-learn, TensorFlow
+- **Tools**: Git, Spyder, Jupyter Notebook, CodeBlocks, VS Code
+
+## 🚀 Projects
+Check out my repositories below to see the projects I'm working on!
+
+- [Driver Fatigue Detection using EEG Signals](https://github.com/justvarma/Fatigue_Detection)  
+- [Personal Portfolio Website](https://github.com/justvarma/Portfolio)
+- [Inventory Managment](https://github.com/justvarma/Inventory_managment)
+
+## 📫 Contact
+Feel free to reach out to me via email at [adityavarma046@example.com](mailto:adityavarma046@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-varma-52a6b7271/).
+
+---
+
+Let's create something amazing together! 😊
