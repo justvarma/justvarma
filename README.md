@@ -22,9 +22,10 @@
 - HTML & CSS
 
 ### 🧰 Frameworks & Tools
-- Tkinter  
-- GitHub  
-- MySQL  
+- Flask  
+- Tkinter
+- MySQL
+- PostgreSQL
 - Google Maps API  
 - Git
 
