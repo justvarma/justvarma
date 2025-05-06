@@ -41,6 +41,7 @@
 - Jupyter Notebook  
 - Code::Blocks  
 - VS Code
+- PyCharm
 
 ---
 
