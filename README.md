@@ -4,7 +4,7 @@
 
 📍 A second-year Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-💡 I’m passionate about exploring technology through **algorithms**, **data structures**, **embedded systems**, and **machine learning**. With a strong foundation in **C**, **Python**, **Data Science**, **DBMS**, **Operating Systems**, and **Machine Learning**, I love building real-world solutions that blend hardware and software.
+💡 I’m passionate about exploring technology through **algorithms**, **data structures**, **embedded systems**, and **machine learning**. With a strong foundation in **C/C++**, **Python**, **Data Science**, **DBMS**, **Operating Systems**, and **Machine Learning**, I love building real-world solutions that blend hardware and software.
 
 🔗 My interests lie in **IoT**, **ML**, and developing intelligent systems that simplify everyday life.
 
