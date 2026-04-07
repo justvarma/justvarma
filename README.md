@@ -5,7 +5,7 @@
 ### 💻 Computer & Communication Engineering Student
 **Amrita Vishwa Vidyapeetham** · 3rd Year
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aditya--varma-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://webshit-isshit.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://webshit-isshit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--varma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-varma-52a6b7271/)
 [![Email](https://img.shields.io/badge/Email-adityavarma046@gmail.com-D85A30?style=flat-square&logo=gmail&logoColor=white)](mailto:adityavarma046@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=justvarma&style=flat-square&color=7F77DD&label=Profile+Views)](https://github.com/justvarma)
