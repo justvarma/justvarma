@@ -103,7 +103,7 @@
 |----------|------|
 | 📧 Email | [adityavarma046@gmail.com](mailto:adityavarma046@gmail.com) |
 | 💼 LinkedIn | [aditya-varma-52a6b7271](https://www.linkedin.com/in/aditya-varma-52a6b7271/) |
-| 🌍 Portfolio | [aditya-varma-portfolio.netlify.app](https://aditya-varma-portfolio.netlify.app/) |
+| 🌍 Portfolio | [https://webshit-isshit.vercel.app/](https://webshit-isshit.vercel.app/) |
 | 💻 GitHub | [github.com/justvarma](https://github.com/justvarma) |
 
 </div>
