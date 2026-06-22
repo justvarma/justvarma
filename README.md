@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya Varma
+# 👋 Hey, I'm Aditya Varma
 
 ### 💻 Computer & Communication Engineering Student
 **Amrita Vishwa Vidyapeetham** · 3rd Year
