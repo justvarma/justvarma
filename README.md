@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Aditya Varma
 
 ### 💻 Computer & Communication Engineering Student
-**Amrita Vishwa Vidyapeetham** · 3rd Year
+**Amrita Vishwa Vidyapeetham** · 4th Year
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aditya--varma-000000?style=flat-square&logo=vercel&logoColor=white)](https://webshit-isshit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--varma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-varma-52a6b7271/)
