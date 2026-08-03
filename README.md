@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Third-year **Computer and Communication Engineering** student at **Amrita Vishwa Vidyapeetham**
+- 🎓 Fourth-year **Computer and Communication Engineering** student at **Amrita Vishwa Vidyapeetham**
 - 💡 Passionate about **Algorithms**, **Data Structures**, **Embedded Systems**, and **Machine Learning**
 - 🔗 My interests lie in **IoT**, **ML**, and building intelligent systems that simplify everyday life
 - 🤝 Looking to **collaborate** on exciting projects and contribute to open-source
